@@ -1,0 +1,40 @@
+[
+{
+   "title":"Youtube 🌟",
+   "description":"Watch and subscribe my channel 🔔",
+   "request":"null",
+   "type":"official",
+   "ok":"Now",
+   "cancell":"Later",
+   "ok_toast":"link you direct :)",
+   "cancell_toast":"Okay, later?",
+   "is_web":"https://www.youtube.com/channel/UC50f4bEftO8bfzTQIqhhBtg",
+   "id":"00000101",
+   "cancelable":"false"
+},
+{
+   "title":"Do you have Telegram",
+   "description":"Follow us for the next project 🤏",
+   "request":"null",
+   "type":"official",
+   "ok":"participate",
+   "cancell":"cancel",
+   "ok_toast":"Nyatwa 🇧🇷👍",
+   "cancell_toast":"",
+   "is_web":"https://t.me/romumods",
+   "id":"000014",
+   "cancelable":"false"
+},
+{
+   "title":"Hello there",
+   "description":"Follow me Instagram for latest updates 🔈",
+   "request":"null",
+   "type":"official",
+   "ok":"Follow",
+   "cancell":"Cancel",
+   "ok_toast":"Yeyee ^-^",
+   "cancell_toast":"Next time",
+   "is_web":"https://instagram.com/romu1k",
+   "id":"0000@3",
+   "cancelable":"false"
+}]
